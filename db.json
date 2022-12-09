@@ -1,5 +1,5 @@
 {
-  "book" : [
+  "posts" : [
   {
         "bookCode": "978-5-17-087988-5",
         "author": "Джей Эшер (Jay Asher)",
@@ -150,7 +150,7 @@
         "add_info": "Страниц: 480",
         "urlImage": "https://avatars.mds.yandex.net/get-marketpic/1731389/picff5c0bfc9e65025d0d100242f077a15c/orig"
     }],
-    "reader" : [
+    "comments" : [
     {
         "name": "Имя: Анастасия (Anastasia)",
         "surname": "Фамилия: Макаревич (Makarevich)",
