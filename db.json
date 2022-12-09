@@ -1,0 +1,295 @@
+{
+  "book" : [
+  {
+        "bookCode": "978-5-17-087988-5",
+        "author": "Джей Эшер (Jay Asher)",
+        "title": "13 причин почему (13 reasons why)",
+        "style": " Роман (Novel)",
+        "year_of_release": 2011,
+        "publish": "Астрель (Astrel)",
+        "add_info": "Страниц: 320",
+        "urlImage": "https://cdn1.ozone.ru/multimedia/1018726757.jpg"
+    },
+    {
+        "bookCode": "978-5-17-086712-7",
+        "author": "Джон Грин (John Green)",
+        "title": "Виноваты звёзды (Blame the stars)",
+        "style": " Роман (Novel)",
+        "year_of_release": 2013,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 288",
+        "urlImage": "http://www.yadrinliber.ru/ma3.jpg"
+    },
+    {
+        "bookCode": "978-5-17-104157-1",
+        "author": "Дженни Хан (Jenny Han)",
+        "title": "Всем парням, которых я любила (To all the guys I loved)",
+        "style": " Роман (Novel)",
+        "year_of_release": 2014,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 290"
+        "urlImage": " https://s1-goods.ozstatic.by/480/221/13/101/101013221_0_Vsem_parnyam_kotorih_ya_lyubila_Dzhenni_Han.jpg"
+    },
+    {
+        "id": 4,
+        "author": "Стивен Кинг (Stephen King)",
+        "title": "Оно (It)",
+        "style": " (Novel, Horrors)",
+        "year_of_release": 1986,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 1530",
+        "urlImage": "https://s5-goods.ozstatic.by/480/199/102/102199_0_Ono_Stiven_King.jpg"
+    },
+    {
+        "id": 5,
+        "author": "Джоан Роулинг (J.K.Rowling)",
+        "title": "Гарри Поттер и философский камень (Harry Potter and the Philosopher's Stone)",
+        "style": "Фэнтезийная литература (Fantasy literature)",
+        "year_of_release": 2016,
+        "publish": "Махаон (Makhaon)",
+        "add_info": "Страниц: 432",
+        "urlImage": "https://s1-goods.ozstatic.by/480/490/102/102490_0_Rarri_Potter_i_filosofskiy_kamen_Dzhoan__Rouling.jpg"
+    },
+    {
+        "id": 6,
+        "author": "Стефани Майер (Stephanie Mayer)",
+        "title": "Сумерки (Twilight)",
+        "style": "Мистика, фэнтези (Mysticism, fantasy)",
+        "year_of_release": 2005,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 350",
+        "urlImage": "https://kitobz.ru/image/cache/catalog/kitobz/product/9853-356x450.jpg"
+    },
+    {
+        "id": 7,
+        "author": "Рик Риордан (Rick Riordan)",
+        "title": "Перси Джексон и Похититель молний (Percy Jackson and the Lightning Thief)",
+        "style": Роман (Novel),
+        "year_of_release": 2009,
+        "publish": "Эксмо (Eksmo)",
+        "add_info": "Страниц: 340",
+        "urlImage": "https://s2-goods.ozstatic.by/480/823/61/101/101061823_0_Persi_Dzhekson_i_pohititel_molniy_Rik_Riordan.jpg"
+    },
+    {
+        "id": 8,
+        "author": "Оскар Уайльд (Oscar Wilde)",
+        "title": "Портрет Дориана Грея (Portrait of Dorian Gray)",
+        "style": "Роман (Novel)",
+        "year_of_release": 1890,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 320",
+        "urlImage": "https://cdn.book24.ru/v2/ITD000000000178558/COVER/cover13d__w820.jpg"
+    },
+    {
+        "id": 9,
+        "author": "Джордж Оруэлл (George Orwell)",
+        "title": "1984",
+        "style": "Роман (Novel)",
+        "year_of_release": 1948,
+        "publish": "Secker and Warburg (Секер и Варбург)",
+        "add_info": "Страниц: 320",
+        "urlImage":"https://s5-goods.ozstatic.by/480/449/348/10/10348449_0_1984_noviy_perevod_Dzhordzh_Oruell.jpg"
+    },
+    {
+        "id": 10,
+        "author": "Уолтер Тевис (Walter Tevis)",
+        "title": "Ход королевы (The Queen's Move)",
+        "style": "Роман (Novel)",
+        "year_of_release": 2020,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 352",
+        "urlImage": "https://s2-goods.ozstatic.by/480/72/970/10/10970072_0_Hod_korolevi_Uolter_Tevis.jpg"
+    },
+    {
+        "id": 11,
+        "author": "Агата Кристи (Agatha Christie)",
+        "title": "Десять негритят (Ten little Negroes)",
+        "style": "Мистерия (mystery)",
+        "year_of_release": 1939,
+        "publish": "Эксмо (Eksmo)",
+        "add_info": "Страниц: 288",
+        "urlImage": "https://s4-goods.ozstatic.by/480/567/233/10/10233567_0_Desyat_negrityat_Agata_Kristi.jpg"
+    },
+    {
+        "id": 12,
+        "author": "Михаил Булгаков (Mikhail Bulgakov)",
+        "title": "Мастер и маргарита (The Master and Margarita)",
+        "style": "Роман (Novel)",
+        "year_of_release": 1928,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 480"
+        "urlImage": "https://s3-goods.ozstatic.by/480/925/126/101/101126925_0_Master_i_Margarita_Mihail_Bulgakov.jpg"
+    },
+    {
+        "id": 13,
+        "author": "Шарлотта Бронте (Charlotte Bronte)",
+        "title": "Джейн Эйр (Jane Eyre)",
+        "style": "Роман (Novel)",
+        "year_of_release": 1847,
+        "publish": "Азбука (ABC)",
+        "add_info": "Страниц: 672",
+        "urlImage": "https://www.knigi-janzen.de/images/goods/big/09438686.jpg"
+    },
+    {
+        "id": 14,
+        "author": "Фрэнсис Скотт Фицджеральд (Francis Scott Fitzgerald)",
+        "title": "Великий Гэтсби (The Great Gatsby)",
+        "style": "Роман (Novel)",
+        "year_of_release": 1925,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 256",
+        "urlImage":"https://s2-goods.ozstatic.by/2000/122/132/10/10132122_0.jpg"
+    },
+    {
+        "id": 15,
+        "author": "Эрих Мария Ремарк (Erich Maria Remarque)",
+        "title": "Три товарища (Three comrades)",
+        "style": "Роман (Novel)",
+        "year_of_release": 1938,
+        "publish": "АСТ (AST)",
+        "add_info": "Страниц: 480",
+        "urlImage": "https://avatars.mds.yandex.net/get-marketpic/1731389/picff5c0bfc9e65025d0d100242f077a15c/orig"
+    }],
+    "reader" : [
+    {
+        "name": "Имя: Анастасия (Anastasia)",
+        "surname": "Фамилия: Макаревич (Makarevich)",
+        "ybirdth": "Год рожения: 2000",
+        "address": "Дом.адрес: ул.Нестерова,60 (Nesterova,60)",
+        "phone": "Моб.тел: 80447213728",
+        "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+  },
+  {
+          "name": "Имя: Виктория (Victoria)",
+          "surname": "Фамилия: Авдеева (Avdeeva)",
+          "ybirdth": "Год рожения: 2001",
+          "address": "Дом.адрес: ул.Белецкого,78 (Beletsky,78)",
+          "phone": "Моб.тел: 80294675205",
+          "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+   },
+   {
+           "name": "Имя: Андрей (Andrey)",
+           "surname": "Фамилия: Петров (Petrov)",
+           "ybirdth": "Год рожения: 1997",
+           "address": "Дом.адрес: ул.Седых,34 (Gray,34)",
+           "phone": "Моб.тел: 80446478291"
+           "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+   },
+   {
+            "name": "Имя: Инесса (Inessa)",
+            "surname": "Фамилия: Егорова (Egorova)",
+            "ybirdth": "Год рожения: 1997",
+            "address": "Дом.адрес: ул.Серова,5 (Serova,5)",
+            "phone": "Моб.тел: 80294738290",
+            "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+   },
+   {
+            "name": "Имя: Екатерина (Ekaterina)",
+            "surname": "Фамилия: Cмирнова (Smirnova)",
+            "ybirdth": "Год рожения: 1998",
+            "address": "Дом.адрес: ул.Куприянова,28 (Kupriyanova,28)",
+            "phone": "Моб.тел: 80447313748",
+            "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+
+   },
+   {
+            "name": "Имя: Сергей (Sergey)",
+            "surname": "Фамилия: Ковалёв (Kovalev)",
+            "ybirdth": "Год рожения: 2002",
+            "address": "Дом.адрес: ул.Якуба Коласа,41 (Yakub Kolas,41)",
+            "phone": "Моб.тел: 80297358145",
+            "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+   },
+   {
+             "name": "Имя: Анна (Аnna)",
+             "surname": "Фамилия: Калашникова (Kalashnikova)",
+             "ybirdth": "Год рожения: 1999",
+             "address": "Дом.адрес: ул.Передовая,46 (Advanced,46)",
+             "phone": "Моб.тел: 80335746729",
+             "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+   },
+   {
+             "name": "Имя: Владислав (Vladislav)",
+             "surname": "Фамилия: Дубровский (Dubrovsky)",
+             "ybirdth": "Год рожения: 1997",
+             "address": "Дом.адрес: ул.Ванеева,41 (Vaneeva,41)",
+             "phone": "Моб.тел: 80336743782",
+             "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+   },
+   {
+             "name": "Имя: Вера (Vera)",
+             "surname": "Фамилия: Беляева (Belyaeva)",
+             "ybirdth": "Год рожения: 1997",
+             "address": "Дом.адрес: ул.Калужская,23 (Kaluga,23)",
+             "phone": "Моб.тел: 80297365482",
+             "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+   },
+   {
+             "name": "Имя: Иван (Ivan)",
+             "surname": "Фамилия: Лазарев (Lazarev)",
+             "ybirdth": "Год рожения: 1996",
+             "address": "Дом.адрес: ул.Бирюзова,117 (Biryuzova,117)",
+             "phone": "Моб.тел: 80294763847",
+             "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+
+   },
+   {
+              "name": "Ева (Eva)",
+              "surname": "Фамилия: Высоцкая (Vysotskaya)",
+              "ybirdth": "Год рожения: 1998",
+              "address": "Дом.адрес: ул.Кропоткина,74 (Kropotkina,74)",
+              "phone": "Моб.тел: 80338267163",
+              "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+   },
+   {
+              "name": "Имя: Юрий (Yuri)",
+              "surname": "Фамилия: Кастрицкий (Kastritsky)",
+              "ybirdth": "Год рожения: 1997",
+              "address": "Дом.адрес: ул.Бехтерева,12 (Bekhtereva,12)",
+              "phone": "Моб.тел: 80449367283",
+              "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+   },
+   {
+              "name": "Имя: Артем (Artyom)",
+              "surname": "Фамилия: Воробьёв (Sparrows)",
+              "ybirdth": "Год рожения: 2001",
+              "address": "Дом.адрес: ул.Сурганова,8 (Surganova,8)",
+              "phone": "Моб.тел: 80335849345",
+              "urlImage": "https://avatars.mds.yandex.net/i?id=134022b919c82fd2f0478d168cd72fe0-4398319-images-thumbs&n=13"
+   },
+   {
+              "name": "Имя: Елена (Elena)",
+              "surname": "Фамилия: Полякова (Polyakova)",
+              "ybirdth": "Год рожения: 2002",
+              "address": "Дом.адрес: ул.Ольшанская,24 (Olshanskaya,24)",
+              "phone": "Моб.тел: 80294736826",
+              "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+    },
+    {
+              "name": "Имя: Нина (Nina)",
+              "surname": "Фамилия: Гурская (Gurskaya)",
+              "ybirdth": "Год рожения: 1996",
+              "address": "Дом.адрес: ул.Свердлова,34 (Sverdlov,34)",
+              "phone": "Моб.тел: 80336752436",
+              "urlImage": "https://avatars.mds.yandex.net/i?id=2ec5d9ae72a2e2f2a51e7c6e4b033592-5235284-images-thumbs&n=13"
+    }]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
